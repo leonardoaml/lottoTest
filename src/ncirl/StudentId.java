@@ -18,7 +18,7 @@ public class StudentId {
     public static void main(String[] args) {
         StudentId studentIdApp;
         studentIdApp = new StudentId();
-        
+        // Coke smells... VERY BAD
         for (int i=0; i<i; i++){
         course =String.parseStrg(JOptionPane.showInputDialog(null,"Please enter the course:"));
         
